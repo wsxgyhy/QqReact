@@ -5,6 +5,7 @@ class App extends React.Component{
     return (
         <div>
         <h1>独立团团长  {boss}</h1>
+        <h3>哈哈哈</h3>
         <Oney></Oney>
         </div>
           )
